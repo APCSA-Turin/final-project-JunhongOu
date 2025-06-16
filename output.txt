@@ -1,1 +1,1 @@
-The user has gotten 6 questions right in the previous Trivia Game!
+The user has gotten 4 questions right in the previous Trivia Game!
