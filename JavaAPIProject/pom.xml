@@ -10,6 +10,13 @@
   <dependencies>
 
     <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>ckeditor__ckeditor5-enter</artifactId>
+      <version>44.1.0</version>
+    </dependency>
+
+
+    <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>20230227</version> <!-- latest stable -->
